@@ -64,6 +64,7 @@
   }
   
   [viewController setTitle:titleString];
+  [textView becomeFirstResponder];
 
   [navController.navigationBar setBarTintColor:redColor];
   UIBarButtonItem *cancelBarBtnItem = [[UIBarButtonItem alloc] initWithTitle:cancelButtonString style:UIBarButtonItemStylePlain target:self action:@selector(cancelBtnPressed:)];
