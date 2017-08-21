@@ -1,0 +1,28 @@
+{
+  "name": "cordova-plugin-textarea",
+  "version": "0.0.1",
+  "description": "",
+  "cordova": {
+    "id": "cordova-plugin-textarea",
+    "platforms": [
+      "ios", "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uhray/cordova-plugin-textarea.git"
+  },
+  "keywords": [
+	"ecosystem:cordova",
+    "cordova",
+    "input",
+    "chat",
+    "native"
+  ],
+  "author": "Lifetime.com.eg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/uhray/cordova-plugin-textarea/issues"
+  },
+  "homepage": "https://github.com/uhray/cordova-plugin-textarea#readme"
+}
